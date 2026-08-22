@@ -100,7 +100,7 @@ export const userDefinedExplicitFilters: ExplicitFilterConfiguration[] = [
       { value: 'B', label: 'B' },
       { value: 'C', label: 'C' },
       { value: 'D', label: 'D' },
-      { value: 'F', label: 'E' },
+      { value: 'E', label: 'E' },
       { value: 'F', label: 'F' },
     ],
     description: '資料種別',
